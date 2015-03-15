@@ -1,0 +1,23 @@
+= Introduction
+
+:hp-image: /theworkingcomputer.github.io/images/intro_cover-image.jpg
+
+
+
+=== If only 
+
+I could focus a little bit better. Just a little. Coffee helps. Good coffee seems to help more. Topics and tasks still flit by like palmetto bugs at a haidresser's convention. ...
+
+Well, this is an account of how I am-building-and-came-to-build a small computer company called the Working Computer. I intend it as a journal of my efforts, successes, failures, and life as I see it along the way,
+
+=== to wit:
+
+I am done, for some part of me (as much as I can be, from moment to moment), with not being who I am. I am here, in New Hampshire, as the life partner (and eventual married partner) of Marcy; and as the son of my parents, Sandra and David; and as father, as brother, as sometime weird friend to a small handful of people. 
+
+In 2010 (after writing computer programs in dribs and drabs since 1977), I began pursuit of "computer programming" as a career. It has been slow going, with false starts and whole stops daily. 
+
+But I am getting somewhere. I was contacted by a recruiter last month, for the first time, about a position coding in Python somewhere a long way from here. Cool, I say. I didn't take the job, but still. ...
+
+=== I decided,
+
+at that point, to "put some things together" so that I am easier to find and know, as a programmer and a person. This feeds in to my recent thoughts about community, security, and people as data. I will be writing about these and other topics in weeks to come, in a (mostly) transparent attempt to see my thoughts and prejudices spread a little farther than they might if I sit quietly at home. Might be that I will make some value, make some connections. At least, I will have more experience communicating the thoughts that make me. And that might be enough.

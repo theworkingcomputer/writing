@@ -1,0 +1,26 @@
+A little idea for creating language processing power, and what is necessary, with simple tools.
+
+Seems to me that the essentials of creating an interactive system really depend on the number of uniquely identifiable commands one can make in it, with the criterion of "usefulness" being mapped to "how easy it might be to remember the command structure without a guide".
+
+While it may be necessary to use an actual language (english, cherokee, esperanto, python ...) to create content, it should be possible to interact with just about any content using a greatly abbreviated system. This, of course, is what we have with computer systems when we utilize the mouse as a command tool. There have been many arguments about the number and function of mouse buttons, and the usefulness of pull-down menus. These, and the programmatic areas that are prescribed as "buttons", are, to today's programming languages and applications, very like the keyboard commands that were relegated to the function keys in the applications of yesteryear. Anyone who tried to use the "non-windows" version of WordPerfect know exactly whatthat was like. And virtually all keyboards had a non-interactive descriptive menu pasted near the function keys to help 'noobs' learn how to use them to access the useful features of the application. Of course, each program had slightly different help sheets, so one had to have a sort of file or rolodex of helper menus to facilitate easy changing. No one could ever expect to know more than one or two systems very well, so we were all noobs at something.
+
+This is what using a mouse in programs has (mostly) become. Granted, anyone who can read can do it, but this is a slow process for virtually everyone, and is impossible for some, in any useful manner. It strikes me that there is a need for a system that streamlines the interaction with a computer so that it can be utilized by a hierarchy, if you will, of users.
+
+	1) Non-readers. These people need to interact graphically, without any 
+	pull-down or contextual menus.
+
+	2) Readers. These folks want a little more customization out of their
+	computer system. They need to get more understanding out of the system,
+	usually involving tree-like structures that require labels, and
+	sometimes instructions as to use. There may be some occasional need for
+	writing, but only as part of a tertiary process such a labeling a file
+	or writing a document, not as a control mechanism.
+
+	3) Writers. This is a group that uses language itself -- in some form --
+	as a control structure. Whether it is using a shell to interact more
+	directly with an operating system, or writing code that will eventually
+	become an application, these people need command and control functions
+	that are beyond the scope of most users, and there is a correspondingly
+	steeper learning curve to these types of interactions.
+
+All of us, most of the time, prefer to be in category 1, when relaxed. This is the category our televisions fill, even when fairly difficult to use. Setting up the television can, however, descend as far as category 3, and sometimes quite deeply into that category, enough so that specialized help must be obtained for the correct setting up of a device.

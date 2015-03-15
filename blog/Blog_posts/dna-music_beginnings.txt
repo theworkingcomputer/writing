@@ -1,0 +1,28 @@
+Question: Can a strand of DNA be mapped to a piece of music in a given digital format? I.e., given a piece of music with easily characterized parts, in, say, .midi format, can an arbitrarily close mapping be made to a given largely coding strand of DNA?
+
+Then, given that this has been accomplished (such that the original piece of music may be generated from the mapped DNA strand), is it possible to use that mapping data, which will correspond to note values, measures, fermata, etc. in a relatively restrictive and stereotyped "alphabet" of codons (64) and individual bases (4), to extract/generate a piece of music from a different strand of largely coding DNA? Perhaps there might be some "sensible" defaults regarding musical structure? but that may not be necessary. There may well be plenty of data to describe that, though it is not something that is required of the biological structures in their construction of proteins. They (the DNA strands) are scaffolded in such a way that they "decode" to make proteins, which are then modified as necessary to fulfill the needs of biological processes. There is no reason not to scaffold the code mapping such that it produces a piece of music, which can then be modified programmatically in such a way as to make it "pleasing", or, at least, accurate.
+
+
+So, what are the steps to accomplish this?
+
+	1) Decide on a style of music for the initial attempt. This has already been done. My thought is to use a short, well-known piece of baroque music, the Canon in D by Pachelbel, as it has already been characterized in multiple digital formats, and has minimal complexity but some degree of technical requirement, in terms of musical structure. It is also in the public domain (an important -- at least to me -- consideration).
+
+	2) Choose a refererence DNA strand. I have chosen
+	Caenorhabditis elegans, the nematode, because its DNA has been thoroughly characterized and much of it has been already mapped to proteins. The data (the DNA sequence), is freely available and in the public domain.
+
+	3) Choose an overall strategy. I have decided, after literally years of consideration, to construct a program using clojure that will accomplish the following:
+
+		a) Profile the piece of music in terms of atomic structures and the relationships between them. More on this later.
+
+		b) Examine a strand of candidate DNA, assigning to the music codons, bases, and the relationships between them, ideally in a one-to-one manner such that the DNA code can be an **alias** for the coded music. This process will be scaffolded by an understanding of both the musical structure and the DNA structure.
+
+		c) Build a player that takes a DNA code "aliasing" and interprets it as music (in a particular style indicated by the initial choice of music) in the same manner, more or less, as a .midi file is played by a midi player. More on this later, too.
+
+		d) Test the process by using the aliased music code (i.e. the DNA) to play back the piece of music. In order for the test to be considered successful, the playback of the DNA music file on the DNA-music player should be identical to the playback of the .midi file of the same piece of music on a generic midi player.
+
+		e) Use the DNA "player" to "play" a different piece of DNA than that of the initial reference, assuming identical musical defaults. 
+
+		f) Finally, possibly, adjust the player to accomodate different settings, maybe based on other "initializing" pieces of music, possibly based on other sensible default settings discovered as part of the exploration of the aliasing process.
+
+
+	4) I foresee an eventual GUI-based application, possibly even accomodated via cell-phone access to an online server which will allow the picking of both an initializing musical selection and a particular DNA selection for playback.
